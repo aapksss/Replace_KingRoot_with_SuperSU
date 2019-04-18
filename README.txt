@@ -1,4 +1,5 @@
 Replace King or KingoRoot with SuperSU
+# [Kingroot apk](https://aapks.com/apk/kingroot/)
 
 To uninstall completely the script deletes files multiple times
 
